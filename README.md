@@ -56,7 +56,7 @@ Designed and implemented a responsive interface that simplifies user interaction
 
 Setup Instructions:
 1. Clone the repository:
-git clone https://github.com/your-username/hospital-management-system.git
+git clone https://github.com/Bo1giD/hospital-management-system.git
 2. Navigate to the project directory:
 cd hospital-management-system
 3. Install required dependencies:
